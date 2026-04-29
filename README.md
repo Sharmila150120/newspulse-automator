@@ -38,6 +38,3 @@ news/
 🧠 Technical Challenges Overcome
 Handling Anti-Scraping: Implemented User-Agent headers to simulate real browser requests, ensuring the server doesn't block the script.
 
-Data Extraction Logic: Used targeted CSS selectors to find specific <h2> elements nested inside <a> tags to ensure data accuracy.
-
-Error Handling: Added try/except blocks to prevent the application from crashing if the source website is down or the structure changes.
